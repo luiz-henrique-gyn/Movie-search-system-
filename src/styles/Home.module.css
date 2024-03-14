@@ -1,0 +1,30 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+.container{
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+ .main ul {
+  list-style: none;
+  margin: 0;
+ }
+ .main li{
+  display: inline-block;
+  margin: 20px;
+ }
+  .text {
+    width: 250px;
+    top: 0px;
+}
+
+
